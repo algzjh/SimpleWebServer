@@ -1,3 +1,11 @@
+/*
+经典的Java IO方法，利用TestConcurrence可以测试其并发性
+http://127.0.0.1:2333/Hello
+
+编译步骤：
+javac ./BackEnd/HttpServer.java
+java BackEnd.HttpServer
+ */
 package BackEnd;
 
 import java.io.*;
