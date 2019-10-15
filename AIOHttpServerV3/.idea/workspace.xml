@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3441988-f544-4fbe-9e95-fbf3f31c8992" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackEnd/HandlerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackEnd/HandlerRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackEnd/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackEnd/HttpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BackEnd/HttpServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="551">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#3042#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -69,11 +65,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="254" />
-    <option name="y" value="395" />
-    <option name="width" value="1901" />
-    <option name="height" value="1022" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="574" />
+    <option name="y" value="33" />
+    <option name="width" value="2488" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,15 +135,15 @@
       <updated>1569792224471</updated>
       <workItem from="1569792228343" duration="310000" />
       <workItem from="1569795896075" duration="6238000" />
-      <workItem from="1571149455681" duration="681000" />
+      <workItem from="1571149455681" duration="1109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7229000" />
+    <option name="totallyTimeSpent" value="7657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="23" width="2488" height="1417" extended-state="6" />
+    <frame x="574" y="33" width="2488" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11488144" />
@@ -197,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BackEnd/HttpServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#3042#0" expanded="true" />
             <element signature="imports" expanded="true" />

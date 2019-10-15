@@ -1,3 +1,10 @@
+/*
+用于测试AIOHttpServerV3的并发性
+编译运行步骤：
+javac TestConcurrence.java
+java TestConcurrence
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
