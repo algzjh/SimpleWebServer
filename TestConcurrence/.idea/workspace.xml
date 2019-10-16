@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f129b699-8fee-4d44-a31e-4a6670e71d38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestConcurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestConcurrence.java" afterDir="false" />
-    </list>
+    <list default="true" id="f129b699-8fee-4d44-a31e-4a6670e71d38" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +14,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestConcurrence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#7348#0" expanded="true" />
                 <element signature="e#1505#2064#0" expanded="true" />
                 <element signature="e#2063#2064#0" expanded="true" />
               </folding>
@@ -84,7 +79,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571150889160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571150893289" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -112,12 +107,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569798928181</updated>
       <workItem from="1569798931341" duration="4266000" />
-      <workItem from="1571149646673" duration="859000" />
+      <workItem from="1571149646673" duration="987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5125000" />
+    <option name="totallyTimeSpent" value="5253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="23" width="2488" height="1417" extended-state="6" />
@@ -160,10 +155,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/TestConcurrence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#7348#0" expanded="true" />
             <element signature="e#1505#2064#0" expanded="true" />
             <element signature="e#2063#2064#0" expanded="true" />
           </folding>

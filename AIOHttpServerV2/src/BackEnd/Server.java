@@ -1,3 +1,12 @@
+/*
+非阻塞IO
+需要使用firefox，因为只实现了HTTP0.9
+只有GET方法
+http://127.0.0.1:2333/welcome.html
+编译运行方法：
+javac ./BackEnd/Server.java
+java BackEnd.Server
+ */
 package BackEnd;
 
 import java.io.*;
@@ -82,7 +91,6 @@ public class Server // 主类：接受连接
     }
 
     public static void main( String argv[] ) throws IOException {
-        //new LargerHttpd().run( Integer.parseInt(argv[0]), 3/*threads*/ );
-        new Server().run( 1235, 3/*threads*/ );
+        new Server().run( 2333, 3/*threads*/ );
     }
 }

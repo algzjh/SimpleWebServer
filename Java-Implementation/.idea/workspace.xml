@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98363cd6-38e5-468c-89aa-5e3a5c5db392" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/HttpdConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/HttpdConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaIOBook/JavaIOBookServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="39" column="1" selection-end-line="40" />
+            <state relative-caret-position="160">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaIOBook/ReadWriteHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="437">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaIOBook/ConnectionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="22" column="22" selection-end-line="38" />
+            <state relative-caret-position="304">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,8 +65,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaIOBook/Attachment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-end-line="16" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Attachment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="2" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="82" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,16 +138,16 @@
         <option value="$PROJECT_DIR$/src/JavaIOBook/ReadWriteHandler.java" />
         <option value="$PROJECT_DIR$/src/JavaIOBookClient/Attachment.java" />
         <option value="$PROJECT_DIR$/src/JavaIOBookClient/Client.java" />
-        <option value="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" />
         <option value="$PROJECT_DIR$/src/JavaIOBook/Attachment.java" />
         <option value="$PROJECT_DIR$/src/JavaIOBook/JavaIOBookServer.java" />
+        <option value="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
-    <option name="y" value="48" />
-    <option name="width" value="1247" />
+    <option name="x" value="742" />
+    <option name="y" value="23" />
+    <option name="width" value="698" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -136,26 +184,20 @@
               <item name="Java-Implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Implementation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaIOBook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Implementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaIOBookClient" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569770529037" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571187971927" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -211,17 +253,18 @@
       <workItem from="1569739485066" duration="752000" />
       <workItem from="1569768090382" duration="1600000" />
       <workItem from="1569785464629" duration="1560000" />
+      <workItem from="1571186823409" duration="1082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25768000" />
+    <option name="totallyTimeSpent" value="26850000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="48" width="1247" height="877" extended-state="0" />
+    <frame x="742" y="23" width="698" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26224068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3277439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,7 +279,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30191082" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30063695" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
@@ -272,16 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -335,40 +368,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Attachment.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/ReadWriteHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/JavaIOBookServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="39" column="1" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/Attachment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-end-line="16" />
+        <state relative-caret-position="437">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -377,18 +380,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaIOBook/ConnectionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="22" column="22" selection-end-line="38" />
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/ReadWriteHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/Attachment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBook/JavaIOBookServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/Attachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="2" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="82" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

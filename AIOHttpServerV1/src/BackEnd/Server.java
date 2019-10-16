@@ -1,3 +1,22 @@
+/*
+异步IO
+编译运行步骤
+服务器端：
+javac ./BackEnd/Server.java
+java BackEnd.Server
+客户端：
+javac ./ClientEnd/Client.java
+java ClientEnd.Client
+
+the overall perspective:
+1. 客户端的主线程将isReadMode设置成false，将“Hello”存储在buffer里，
+接着利用write()将message写入channel，传送并展示到server
+2. 服务器read/write处理函数，将该消息写回客户端
+3. 因为isReadMode是false，client执行else部分，将isReadMode置为true，并调用read()
+读出server写在buffer里的Hello
+4. client的completed()方法被调用。取出buffer中的bytes，将其作为服务器应答结果打印出来。
+5. client
+ */
 package BackEnd;
 
 import BackEnd.Attachment;

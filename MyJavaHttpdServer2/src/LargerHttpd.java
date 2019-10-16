@@ -1,3 +1,10 @@
+/*
+需要使用firefox，因为只实现了http0.9
+http://127.0.0.1:1235/welcome.html
+编译运行方法
+javac LargerHttpd.java
+java LargerHttpd
+ */
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
