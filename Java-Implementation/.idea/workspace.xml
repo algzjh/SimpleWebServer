@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98363cd6-38e5-468c-89aa-5e3a5c5db392" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV1/src/BackEnd/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AIOHttpServerV2/src/BackEnd/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/HttpdConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/HttpdConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaHttpdServer2/src/LargerHttpd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestConcurrence/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98363cd6-38e5-468c-89aa-5e3a5c5db392" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="82" selection-end-column="2" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571187971927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571187972981" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -253,12 +238,12 @@
       <workItem from="1569739485066" duration="752000" />
       <workItem from="1569768090382" duration="1600000" />
       <workItem from="1569785464629" duration="1560000" />
-      <workItem from="1571186823409" duration="1082000" />
+      <workItem from="1571186823409" duration="1104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26850000" />
+    <option name="totallyTimeSpent" value="26872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="742" y="23" width="698" height="877" extended-state="0" />
@@ -430,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaIOBookClient/ReadWriteHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="82" selection-end-column="2" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
